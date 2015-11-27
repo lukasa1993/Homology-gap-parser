@@ -1,0 +1,5 @@
+build/
+build/*
+build/bin/hom_result_2015-11-20_17.txt
+
+build/bin/gap_parser
